@@ -1,0 +1,17 @@
+.results {
+    text-align: left;
+}
+
+.item .title {
+    font-size: large;
+    font-weight: bold;
+}
+
+.sgst-text {
+    color: rgb(16, 84, 212);
+}
+
+.sgst-text:hover {
+    color:rgb(44, 42, 165);
+    text-decoration-line: underline;
+}
